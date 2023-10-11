@@ -1,0 +1,47 @@
+.delicacy{
+    border: 2px solid aquamarine;
+    background-color: darkred;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: beige;
+}
+.cars{
+    background-color: #5acc5a;
+    border: black solid 2px;
+    margin: 20px;
+    padding: 20px;
+    text-align: end;
+    color: fuchsia;
+    
+}
+.computer{
+    background-color: #100079;
+    border: black solid 2px;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: gainsboro;
+}
+.laptop{
+    border: 2px solid black;
+}
+.desktop{
+    border: 2px dotted red;
+}
+.fruits{
+    background-color: yellow;
+    border: black 2px solid;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    color: orangered;
+}
+#houses{
+    background-color: #100079;
+    border: black solid 2px;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: gainsboro;
+}

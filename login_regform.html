@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="assets/css/styleform.css">
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Login Form</title>
+</head>
+<body>
+<div class="form">
+    <ul class="tab-group">
+        <li class="tabactive"><a href="#signup"> Sign up</a></li>
+        <li><a href="#login"> Login</a></li>
+    </ul>
+    <div class="tab-content">
+        <div class="signup">
+            <h1>Sign Up</h1>
+            <form action="" method="post"></form>
+            <div class="toprow">
+                <div class="fieldwrap">
+                    <label> First Name <span class="req"> </span></label>
+                    <input type="text" autocomplete="off">
+                </div>
+                    <div class="fieldwrap">
+                    <label> Last Name <span class="req"> </span></label>
+                    <input type="text" autocomplete="off">
+                </div>
+                    <div class="fieldwrap">
+                    <label>Email Address <span class="req"> </span></label>
+                    <input type="email" autocomplete="off">
+                </div>
+                    <div class="fieldwrap">
+                    <label> Password <span class="req"> </span></label>
+                    <input type="password" required autocomplete="off">
+                </div>
+                <button type="submit" class=" button button-block">Get Started</button>
+
+            </div>
+        </div>
+        <div id="login">
+            <h1>Welcome Back</h1>
+            <form action="" method="post">
+                <div class="fieldwrap">
+                    <label>Email Adress <span class="req">*</span></label>
+                    <input type="email" required autocomplete="off">
+                </div>
+                 <div class="fieldwrap">
+                    <label>Email Adress <span class="req">*</span></label>
+                    <input type="email" required autocomplete="off">
+                </div>
+                  <div class="fieldwrap">
+                    <label>Password <span class="req">*</span></label>
+                    <input type="password" required autocomplete="off">
+                      <p class="forgot"><a href="#">Forgot password?</a></p>
+                      <button class="button button-block"> Log in</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

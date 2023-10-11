@@ -1,0 +1,51 @@
+.fruits{
+    border: 2px solid aquamarine;
+    background-color: darkred;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color:beige;
+}
+.Cars{
+    background-color: #5acc5a;
+    border: black solid 2px;
+    margin: 20px;
+    padding: 20px;
+    text-align: end;
+    color: #c70edc;
+}
+.Comp{
+     background-color: #b51bc0;
+    border: #1b3fc4 solid 2px;
+    margin: 20px;
+    padding: 20px;
+    text-align: end;
+    color: #d7c0c0;
+}
+.lapt{
+    border: 2px solid black;
+}
+.dst{
+    border: 2px dotted blue;
+}
+.Fruits{
+    border: 2px dotted limegreen;
+    background-color: fuchsia;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: floralwhite;
+
+}
+#house{
+    border: 2px dotted limegreen;
+    background-color: fuchsia;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: floralwhite;
+
+}
+body{
+    background-image: url("assets/images/manu.png");
+}
